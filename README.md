@@ -8,7 +8,9 @@
 - SQLite
 - SQLite Browser
 
-_**Python**_
+---
+
+### **Python**
 
 Python é uma linguagem de programação de alto-nível, criada em 1989 por
 Guido Vam Hossum.  
@@ -41,5 +43,47 @@ python --version
 ```
 Será mostrado a versão instalada.
 ![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/ce55767aac69b1287d115d16425ec6ac2366e3e7/python_cmd_vers%C3%A3o.png)
+
+### **Pip:**
+
+Pip trata-se de um sistema gerenciador de pacotes (bibliotecas) que são utilizadas para trazer mais funcionalidade ao Python.  
+O Pip contém uma grande infinidade de links e pacotes que derivam da comunidade oficial de desenvolvedores Python, assim não é necessário
+acessar o repositório de cada desenvolvedor para se ter acesso ao pacote que se deseja, basta fazer a pesquisa no site oficial [Pypi.org](https://pypi.org/)
+e utilizar o Pip para sua integração.
+
+Para testar se o Pip está instalado digite o seguinte comando no terminal:
+```
+pip --version  
+```
+Será mostrada a versão instalada.
+![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/dfbdb589ef385aa32514b35a0752bedb93e85b88/Pip_version.png)
+
+### **PyCharm:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
