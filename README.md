@@ -24,7 +24,12 @@ Caracterisa-se por ser:
 _**Instalação**_
 
 1. Fazer o dowload da linguagem em seu site oficial [Python.org.](https://www.python.org/)
+
 2. Escolher a versão a ser instalada, de acordo com o sistema operacional, de preferência optar pela versão mais recente.
+![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/cf58ca729186c71713b980a088d91346bc043b20/python01.png)
+![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6329a0e135f8a18e91fd7b4b1c63569e3190f8ca/python_versao.png)
+
+
 3. Executar o instalador, seguindo os passos solicitados, marcar a opção ADD PYTHON ("Versão do Python") ao PATH.
 4. Após isso basta finalizar e o Python estará instalado.
 
