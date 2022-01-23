@@ -31,8 +31,10 @@ _**Instalação:**_
 
 3. Executar o instalador, seguindo os passos solicitados, marcar a opção ADD PYTHON ("Versão do Python") ao PATH.  
 ![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/d53f33e274b7d28490c4da692f88f172467daf2c/instalador.png)
-4. Após isso basta finalizar e o Python estará instalado.
+
+4. Após isso basta fechar o instalador e o Python estará instalado. É recomendável desabilitar "path lenth limit".
 ![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/a22b29d008d18e305d90991ad2870c3314e848ed/python_finalizado.png)
+
 Para testar, abra o terminal e digite o comando:  
 ```
 python --version  
