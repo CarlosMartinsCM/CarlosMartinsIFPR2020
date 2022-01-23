@@ -40,6 +40,6 @@ Para testar, abra o terminal e digite o comando:
 python --version  
 ```
 Será mostrado a versão instalada.
-
+![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/ce55767aac69b1287d115d16425ec6ac2366e3e7/python_cmd_vers%C3%A3o.png)
 
 
