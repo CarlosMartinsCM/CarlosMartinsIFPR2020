@@ -16,7 +16,7 @@ Python é uma linguagem de programação de alto-nível, criada em 1989 por
 Guido Vam Hossum.  
 Caracterisa-se por ser:
 
-- Uma linguagem multiplataforma, o mesmo codigo se adapta a varios sistemas operacionais.
+- Uma linguagem multiplataforma, o mesmo código se adapta a varios sistemas operacionais.
 - Linguagem de proposito geral, usada em varias aplicações e dispositivos.
 - Organizada e de fácil leitura do código, exige poucas linhas de código se comparado ao mesmo programa em outras linguagens.
 - Orientada a objetos.
@@ -66,7 +66,7 @@ IDE padrão do Python, o IDLE.
 O PyCharm é desenvolvido pela empresa JetBrains, sendo escrito em Java e Python, e está disponível para vários
 sistemas operacionais, como Windows, Linux e OS X.  
 
-Entre os principais recursos presentes no PyCharm destacamos os seguintes:
+Principais recursos do PyCharm
 
 - Debugger gráfico
 - Unidade de testes integrada
@@ -144,7 +144,7 @@ _**Os passos a seguir são para configurar as variáveis de ambiente do windows*
 ![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/9-SQLite_variaveis_de_ambiente_editar_path.png)  
 5. Clique em novo
 ![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/10-SQLite_variaveis_de_ambiente_editar_novo.png)  
-6. Em novo preencha com o endereço do diretorio C onde se encontram os arquivos SQLite
+6. Em novo preencha com o endereço do diretorio onde se encontram os arquivos SQLite
 ![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/11-SQLite_caminho_pasta_SQLite.png) 
 
 _**Após esse processo clique OK até sair das configurações**_
@@ -165,7 +165,7 @@ _**Instalação:**_
 ![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/2-sqlite_brownser_instalador.png) 
 3. Aceitar os termos de licensa
 ![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/3-sqlite_brownser_instalador.png) 
-4. Adicionar icone ao desktop
+4. Adicionar ícone ao desktop
 ![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/4-sqlite_brownser_instalador.png) 
 5. Clicar em next
 ![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/5-sqlite_brownser_instalador.png) 
