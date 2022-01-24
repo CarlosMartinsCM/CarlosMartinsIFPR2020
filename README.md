@@ -85,7 +85,14 @@ Optar pela versão gratuita.
 ![Pycharm_version](https://github.com/CarlosMartinsIFPR2020/imagens/blob/20349e99bd7a4e74df2bd5570ede6df180116822/pycharm_download_version.png)  
 2. Executar o instalador.  
 Marcando a opção Creat Associations .py  
-![Pycharm_instalador](https://github.com/CarlosMartinsIFPR2020/imagens/blob/381c1b97c07dd53acda5cf519982589cd3814dde/pycharm_instalador_inicio.png)
+![Pycharm_instalador](https://github.com/CarlosMartinsIFPR2020/imagens/blob/381c1b97c07dd53acda5cf519982589cd3814dde/pycharm_instalador_inicio.png)  
+3. Clicar em install.  
+![Pycharm_processo](https://github.com/CarlosMartinsIFPR2020/imagens/blob/381c1b97c07dd53acda5cf519982589cd3814dde/pycharm_instalador_processo.png)  
+4. Processo finalizado, clicar em Finish.  
+![Pycharm_processo](https://github.com/CarlosMartinsIFPR2020/imagens/blob/381c1b97c07dd53acda5cf519982589cd3814dde/pycharm_instalador_finalizado.png)  
+IDE instalada  
+![Pycharm_tela_inicial](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c77335105d4679cc52f23fbc1f50d9af40efeb08/pycharm_tela_inicial.png)  
+
 
 
 
