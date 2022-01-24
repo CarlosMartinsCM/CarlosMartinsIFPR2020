@@ -94,6 +94,46 @@ IDE instalada
 ![Pycharm_tela_inicial](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c77335105d4679cc52f23fbc1f50d9af40efeb08/pycharm_tela_inicial.png)  
 
 
+### **Git**  
+
+Git é um software para rastrear alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores
+que desenvolvem código-fonte colaborativamente durante o desenvolvimento de software. Seus objetivos incluem velocidade, integridade de dados
+e suporte para fluxos de trabalho distribuídos e não lineares (milhares de ramificações paralelas em execução em diferentes sistemas).  
+
+_**Instalação:**_
+
+1. Baixar o software pelo site oficial [git.com](https://git-scm.com/downloads), escolhendo a versão de acorso com seu sistema operacional.  
+![git_versao](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c655217bcc51183425bdbb17417efecb03a2b9d0/1-git_versao_download.png)  
+2. Executar o instalador.  
+![git_instalador](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c655217bcc51183425bdbb17417efecb03a2b9d0/2-git_instalador.png)  
+3. Clicar em Next.  
+![git_instalador](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c655217bcc51183425bdbb17417efecb03a2b9d0/3-git_instalador.png)  
+4. Nesta tela deve-se escolher o editor que será usado, no meu caso o Visual Studio Code.  
+![git_editor](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c655217bcc51183425bdbb17417efecb03a2b9d0/4-git_instalador_selecionar_editor.png)  
+5. Clicar em Next até que a instalação seja finalizada.  
+![git_editor](https://github.com/CarlosMartinsIFPR2020/imagens/blob/3c2360e6f2ce7107b8ae9fdb359b51b2d6b2fb2e/git_finalizado.png)  
+
+### **SQLite**  
+
+SQLite é uma biblioteca que permite a disponibilização de um pequeno banco de dados na própria aplicação, sem a necessidade de acesso a um SGDB separado,  
+Desenvolvido em linguagem C e de código aberto, é indicado para aplicações de pequeno porte, que utilizam poucos dados.  
+A grande vantagem dos bancos de dados embutidos está em sua simplicidade, é mais prático implementar e administrar do que a implementação de SGDB´s separados.
+Por outro lado, a performance e limitação de recursos são desvantagens do SQLite e soluções semelhantes.
+
+_**Instalação:**_
+
+1. Fazer o download pelo site oficial [SQLite.org](https://www.sqlite.org/download.html)
+Escolher a opção de acordo com a versão do sistema operacional.
+![SQLite_version](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/1-SQLite_version.png)  
+3. Tranferir os arquivos baixados para pasta C.  
+![SQLite_pasta_c](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/2-SQLite_transferir_pasta_C.png)  
+4. Conceder permissão de administrador.  
+![SQLite_permissao](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/3-SQLite_transferir_pasta_C_administrador.png)  
+5. Transferir o conteúdo da pasta sqlite-dll para a pasta SQLite.  
+6. ![SQLite_conteudo](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/5-SQLite_conte%C3%BAdo.png)  
+
+
+
 
 
 
