@@ -60,6 +60,32 @@ Será mostrada a versão instalada.
 
 ### **PyCharm:**
 
+O PyCharm é um IDE (ambiente de desenvolvimento integrado) utilizado para programação em Python, que possui diversos recursos
+extremamente úteis e que facilitam as tarefas de desenvolvimento de software principalmente quando comparado com o
+IDE padrão do Python, o IDLE.  
+O PyCharm é desenvolvido pela empresa JetBrains, sendo escrito em Java e Python, e está disponível para vários
+sistemas operacionais, como Windows, Linux e OS X.  
+
+Entre os principais recursos presentes no PyCharm destacamos os seguintes:
+
+- Debugger gráfico
+- Unidade de testes integrada
+- Integração com sistemas de controle de versão, como Git, Mercurial e Subversion
+- Análise de código
+- Code Completion
+- Sintaxe e Erros destacados
+- Refatoração
+- Suporte a desenvolvimento com Django  
+
+_**Instalação:**_
+
+1. Baixar o software pelo site oficial [JetBrains.com](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows) escolhendo a versão
+correspondente ao seu sistema operacional.  
+Optar pela versão gratuita.
+![Pycharm_version](https://github.com/CarlosMartinsIFPR2020/imagens/blob/20349e99bd7a4e74df2bd5570ede6df180116822/pycharm_download_version.png)  
+2. Executar o instalador.  
+Marcando a opção Creat Associations .py  
+![Pycharm_instalador](https://github.com/CarlosMartinsIFPR2020/imagens/blob/381c1b97c07dd53acda5cf519982589cd3814dde/pycharm_instalador_inicio.png)
 
 
 
