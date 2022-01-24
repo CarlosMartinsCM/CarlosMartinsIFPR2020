@@ -10,7 +10,7 @@
 
 ---
 
-### **Python**
+### **Python versão 3.10.2**
 
 Python é uma linguagem de programação de alto-nível, criada em 1989 por
 Guido Vam Hossum.  
@@ -44,7 +44,7 @@ python --version
 Será mostrado a versão instalada.
 ![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/ce55767aac69b1287d115d16425ec6ac2366e3e7/python_cmd_vers%C3%A3o.png)
 
-### **Pip:**
+### **Pip versão 21.2.4**
 
 Pip trata-se de um sistema gerenciador de pacotes (bibliotecas) que são utilizadas para trazer mais funcionalidade ao Python.  
 O Pip contém uma grande infinidade de links e pacotes que derivam da comunidade oficial de desenvolvedores Python, assim não é necessário
@@ -58,7 +58,7 @@ pip --version
 Será mostrada a versão instalada.
 ![Versão Python](https://github.com/CarlosMartinsIFPR2020/imagens/blob/dfbdb589ef385aa32514b35a0752bedb93e85b88/Pip_version.png)
 
-### **PyCharm:**
+### **PyCharm versão 2021.3.1**
 
 O PyCharm é um IDE (ambiente de desenvolvimento integrado) utilizado para programação em Python, que possui diversos recursos
 extremamente úteis e que facilitam as tarefas de desenvolvimento de software principalmente quando comparado com o
@@ -94,7 +94,7 @@ IDE instalada
 ![Pycharm_tela_inicial](https://github.com/CarlosMartinsIFPR2020/imagens/blob/c77335105d4679cc52f23fbc1f50d9af40efeb08/pycharm_tela_inicial.png)  
 
 
-### **Git**  
+### **Git versão 2.34.1**  
 
 Git é um software para rastrear alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores
 que desenvolvem código-fonte colaborativamente durante o desenvolvimento de software. Seus objetivos incluem velocidade, integridade de dados
@@ -113,7 +113,7 @@ _**Instalação:**_
 5. Clicar em Next até que a instalação seja finalizada.  
 ![git_editor](https://github.com/CarlosMartinsIFPR2020/imagens/blob/3c2360e6f2ce7107b8ae9fdb359b51b2d6b2fb2e/git_finalizado.png)  
 
-### **SQLite**  
+### **SQLite versão 3.37.2**  
 
 SQLite é uma biblioteca que permite a disponibilização de um pequeno banco de dados na própria aplicação, sem a necessidade de acesso a um SGDB separado,  
 Desenvolvido em linguagem C e de código aberto, é indicado para aplicações de pequeno porte, que utilizam poucos dados.  
@@ -153,7 +153,7 @@ _**Após esse processo clique OK até sair das configurações**_
 ![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/12-SQLite_teste_CMD.png) 
 Será mostrado a versão do SQLite seguido de algumas opções de comandos  
 
-### **SQLiteBrowser**  
+### **SQLiteBrowser versão 3.12.2**  
 
 DB Browser para SQLite é uma ferramenta de código livre usada para criar, editar e projetar bancos de dados SQLite.  
 
