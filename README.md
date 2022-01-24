@@ -125,17 +125,54 @@ _**Instalação:**_
 1. Fazer o download pelo site oficial [SQLite.org](https://www.sqlite.org/download.html)
 Escolher a opção de acordo com a versão do sistema operacional.
 ![SQLite_version](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/1-SQLite_version.png)  
-3. Tranferir os arquivos baixados para pasta C.  
+2. Tranferir os arquivos baixados para pasta C.  
 ![SQLite_pasta_c](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/2-SQLite_transferir_pasta_C.png)  
-4. Conceder permissão de administrador.  
+3. Conceder permissão de administrador.  
 ![SQLite_permissao](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/3-SQLite_transferir_pasta_C_administrador.png)  
-5. Transferir o conteúdo da pasta sqlite-dll para a pasta SQLite.  
-6. ![SQLite_conteudo](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/5-SQLite_conte%C3%BAdo.png)  
+4. Transferir o conteúdo da pasta sqlite-dll para a pasta SQLite.  
+![SQLite_conteudo](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/5-SQLite_conte%C3%BAdo.png)  
 
+_**Os passos a seguir são para configurar as variáveis de ambiente do windows**_
 
+1. Em "Este Computador", clique direito e acessar Propriedades
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/6-SQLite_propriedades_de_ambiente.png)  
+2. Configurações avançadas do sistema
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/7-SQLite_propriedades_de_ambiente_configura%C3%A7%C3%B5es.png)  
+3. Variáveis de ambiente
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/8-SQLite_variaveis_de_ambiente.png)  
+4. Selecione path e clique em editar
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/9-SQLite_variaveis_de_ambiente_editar_path.png)  
+5. Clique em novo
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/12113f8d2ad1a42929d078ff6cf5561fd9c50e2a/10-SQLite_variaveis_de_ambiente_editar_novo.png)  
+6. Em novo preencha com o endereço do diretorio C onde se encontram os arquivos SQLite
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/11-SQLite_caminho_pasta_SQLite.png) 
 
+_**Após esse processo clique OK até sair das configurações**_
 
+7. No CMD digite um comando com a versão do SQLite instalada para certificar-se de que o SQLite está corretamente instalado
+![variaveis_windows](https://github.com/CarlosMartinsIFPR2020/imagens/blob/1004179ae49e1c871a5d3181470feb3d4ebe1f58/12-SQLite_teste_CMD.png) 
+Será mostrado a versão do SQLite seguido de algumas opções de comandos  
 
+### **SQLiteBrowser**  
+
+DB Browser para SQLite é uma ferramenta de código livre usada para criar, editar e projetar bancos de dados SQLite.  
+
+_**Instalação:**_
+
+1. Fazer o download no site oficial
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/1-sqlite_brownser_download.png) 
+2. Executar o instalador
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/2-sqlite_brownser_instalador.png) 
+3. Aceitar os termos de licensa
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/3-sqlite_brownser_instalador.png) 
+4. Adicionar icone ao desktop
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/4-sqlite_brownser_instalador.png) 
+5. Clicar em next
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/5-sqlite_brownser_instalador.png) 
+6. Clicar em instalar
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/6-sqlite_brownser_instalador.png) 
+7. Após a instalação, pode-se executar o SQLiteBrowser para teste
+![sqlite_browser](https://github.com/CarlosMartinsIFPR2020/imagens/blob/6fb43739ba4794e43c52e14723661f8b020c7150/8-sqlite_brownser_instalador.png) 
 
 
 
