@@ -9,6 +9,7 @@
 - SQLite Browser
 
 ---
+## Sistema operacional Windows 11
 
 ### **Python versão 3.10.2**
 
